@@ -1,0 +1,19 @@
+body {
+	margin: 20pt;
+
+	background-color: #181818;
+	color: #C0C0C0;
+
+	font-family: Verdana;
+	font-size: 12pt;
+}
+
+h1 {
+	color: #E0E0E0;
+	font-size: 32pt;
+	font-weight: 1;
+}
+
+p {
+	font-size: 16pt;
+}
