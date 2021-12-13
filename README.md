@@ -1,3 +1,3 @@
-# Jacob Bingham's Website
+# The Order of the Simulation GitHub Pages
 
-This repostiory contains the all the source for my GitHub Pages website.
+This repository contains all the source for [my GitHub Pages website](https://the-order-of-the-simulation.github.io/).
